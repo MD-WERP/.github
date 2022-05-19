@@ -9,6 +9,11 @@ The Murray–Darling Water and Environment Research Program is a 4-year, $20 mil
 
 This GitHub organisation is to allow for sharing of knowledge and capabilities associated with the above themes.
 
+The main Website for the program of work can be found [here](https://getinvolved.mdba.gov.au/murray-darling-water-and-environment-research-program)
+
+## Contribution Guidelines
+A big welcome and thank you for considering contributing to MD-WERP open source projects! It’s people like you that make it a reality for users in our community.
+- further details to come...
 <!--
 
 **Here are some ideas to get you started:**
